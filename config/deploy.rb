@@ -2,10 +2,10 @@
 lock "3.7.1"
 
 set :application, 'social'
-#set :repo_url, 'https://github.com/chungchenran2/social.git'
-set :scm, "git"
-set :repository, 'git@github.com:chungchenran2/social.git'
-set :branch, "master"
+set :repo_url, 'https://github.com/chungchenran2/social.git'
+#set :scm, "git"
+#set :repository, 'git@github.com:chungchenran2/social.git'
+#set :branch, "master"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
