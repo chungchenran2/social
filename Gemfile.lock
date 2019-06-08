@@ -42,7 +42,7 @@ GEM
       sshkit (>= 1.6.1, != 1.7.0)
     arel (7.1.4)
     bcrypt (3.1.11)
-    bootstrap-sass (3.1.1.1)
+    bootstrap-sass (3.4.1)
       sass (~> 3.2)
     builder (3.2.2)
     byebug (9.0.6)
