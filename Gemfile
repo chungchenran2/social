@@ -59,3 +59,5 @@ gem 'will_paginate'
 gem 'rails-controller-testing'
 
 gem 'responders'
+
+gem "nokogiri", ">= 1.10.4"
