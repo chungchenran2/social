@@ -61,3 +61,5 @@ gem 'rails-controller-testing'
 gem 'responders'
 
 gem "nokogiri", ">= 1.10.4"
+
+gem "loofah", ">= 2.3.1"
