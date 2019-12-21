@@ -63,3 +63,5 @@ gem 'responders'
 gem "nokogiri", ">= 1.10.4"
 
 gem "loofah", ">= 2.3.1"
+
+gem "rack", ">= 2.0.8"
